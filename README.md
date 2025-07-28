@@ -1,4 +1,3 @@
-
-      <h1>Duda Brigato</h1>
-      <p>Sou estudante de Desenvolvimento de Sistemas no SENAI, em busca de oportunidades para aplicar meus conhecimentos e crescer como desenvolvedora. 👩‍💻</p>
-    </div>
+## Duda Brigato
+   ##Sobre
+Sou estudante de Desenvolvimento de Sistemas no SENAI, em busca de constante evolução profissional e pessoal. Atuo também como promotora de vendas freelancer, onde desenvolvi habilidades essenciais como comunicação, negociação, atendimento ao cliente e trabalho em equipe.
