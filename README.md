@@ -1,7 +1,6 @@
 ## Duda Brigato
    ##
 Sou estudante de Desenvolvimento de Sistemas no SENAI, buscando me desenvolver tanto na teoria quanto na prática. Tenho interesse em aplicar meus conhecimentos em projetos reais e aprender com os desafios do dia a dia profissional.
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -135,7 +134,7 @@ Sou estudante de Desenvolvimento de Sistemas no SENAI, buscando me desenvolver t
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudabrigato&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muninliv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
